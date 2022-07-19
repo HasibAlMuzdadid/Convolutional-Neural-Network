@@ -13,3 +13,5 @@ Email: muzdadid@gmail.com
 
 ## Project Description :
 Convolutional Neural Networks are a specialized type of artificial neural networks that use a mathematical operation called convolution in place of general matrix multiplication in at least one of their layers. They are specifically designed to process pixel data and are used in image recognition and processing.
+
+This was implemented from scratch for the completion of the Convolutional Neural Networks course offered by DeepLearning.AI on Coursera which is also a part of Deep Learning Specialization offered by DeepLearning.AI on Coursera.
