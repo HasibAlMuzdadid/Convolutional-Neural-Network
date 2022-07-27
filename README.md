@@ -17,4 +17,4 @@ Convolutional Neural Networks are a specialized type of artificial neural networ
 This was implemented from scratch for the completion of the [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) course offered by [DeepLearning.AI](https://www.deeplearning.ai) on [Coursera](https://www.coursera.org) which is also a part of [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) course offered by [DeepLearning.AI](https://www.deeplearning.ai) on [Coursera](https://www.coursera.org).
 
 **Language used :** Python </br>
-**Development Tools :** [Jupyter Notebook]()
+**Development Tools :** [Jupyter Notebook](https://jupyter.org/)
