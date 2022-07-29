@@ -23,3 +23,5 @@ This was implemented from scratch for the completion of the [Convolutional Neura
 
 
 **Accomplishments :**
+Course  | Achievement
+:-------------: | :-------------:
