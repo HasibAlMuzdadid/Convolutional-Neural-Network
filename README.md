@@ -10,7 +10,7 @@ Hasib Al Muzdadid</br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
 Portfolio: https://hasibalmuzdadid.github.io </br>
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid </br>
-Email: muzdadid@gmail.com
+
 
 ## Project Description :
 Convolutional Neural Networks are a specialized type of artificial neural networks that use a mathematical operation called convolution in place of general matrix multiplication in at least one of their layers. They are specifically designed to process pixel data and are used in image recognition and processing.
